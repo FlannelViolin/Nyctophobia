@@ -1,0 +1,96 @@
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\ttw6741\IGMProfile\Documents\Visual Studio 2010\Projects\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+\\banner.main.ad.rit.edu\students\jcc9328\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+C:\Users\Georgia\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet1.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\Darkness.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\Darkness.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+C:\Users\David Jr\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\Darkness.xnb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\dxm7073\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\StoryFont.xnb
+C:\Users\Jesse\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\winner.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\Darkness.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\winner.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\StoryFont.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\door-lock-1.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\background.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\background.wma
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\TileSheet.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\Darkness.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\NycSheet.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Images\winner.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Title.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\Instructions.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Fonts\StoryFont.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\door-lock-1.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\background.xnb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Content\Sounds\background.wma
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\bin\x86\Debug\Nyctophobia.pdb
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.exe
+\\banner.main.ad.rit.edu\students\gap8240\IGMProfile\Desktop\2011-2012\TheFive\Nyctophobia\Nyctophobia\Nyctophobia\obj\x86\Debug\Nyctophobia.pdb

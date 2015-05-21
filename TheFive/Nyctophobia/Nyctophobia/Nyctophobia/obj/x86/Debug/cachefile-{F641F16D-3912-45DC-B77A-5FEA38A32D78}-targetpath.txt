@@ -1,0 +1,10 @@
+Content\Images\TileSheet.xnb
+Content\Images\Darkness.xnb
+Content\Images\NycSheet.xnb
+Content\Images\winner.xnb
+Content\Fonts\Title.xnb
+Content\Fonts\Instructions.xnb
+Content\Fonts\StoryFont.xnb
+Content\Sounds\door-lock-1.xnb
+Content\Sounds\background.xnb
+Content\Sounds\background.wma
